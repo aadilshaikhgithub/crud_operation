@@ -1,5 +1,5 @@
 <?php
-require "db_connect.php";
+require "public/databse/db_connect.php";
 
 
 if (isset($_POST['submit'])) {

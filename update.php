@@ -1,5 +1,5 @@
 <?php
-require "db_connect.php";
+require "public/databse/db_connect.php";
 
 $select = "SELECT `id`, `name`, `email`, `password` FROM users";
 $result = mysqli_query($conn, $select);
