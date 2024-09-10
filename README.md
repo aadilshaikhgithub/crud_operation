@@ -7,6 +7,6 @@ other -> Bootstap 5.3.3 use in css, js and icon <br>
 <!-- database -->
 database -> mysqli(phpmyAdmin) <br>
 
-!(image.png)
+![alt text](image.png)
 
-!(image-1.png)
+![alt text](image-1.png)
